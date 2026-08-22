@@ -1,1 +1,1 @@
-# civicflow
+CivicFlow is a citizen-first civic accountability platform for Mumbai. It allows citizens to report civic issues using text, voice, and photographs; intelligently identifies and routes complaints to the appropriate authority; provides transparent case tracking; monitors service-level deadlines; and automatically escalates overdue cases. Government operators receive an operational dashboard showing complaint volumes, SLA performance, hotspots, and unresolved cases.
